@@ -1,0 +1,15 @@
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\bin\Debug\net6.0\hwl1ex8.exe
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\bin\Debug\net6.0\hwl1ex8.deps.json
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\bin\Debug\net6.0\hwl1ex8.runtimeconfig.json
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\bin\Debug\net6.0\hwl1ex8.dll
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\bin\Debug\net6.0\hwl1ex8.pdb
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\obj\Debug\net6.0\hwl1ex8.csproj.AssemblyReference.cache
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\obj\Debug\net6.0\hwl1ex8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\obj\Debug\net6.0\hwl1ex8.AssemblyInfoInputs.cache
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\obj\Debug\net6.0\hwl1ex8.AssemblyInfo.cs
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\obj\Debug\net6.0\hwl1ex8.csproj.CoreCompileInputs.cache
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\obj\Debug\net6.0\hwl1ex8.dll
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\obj\Debug\net6.0\refint\hwl1ex8.dll
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\obj\Debug\net6.0\hwl1ex8.pdb
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\obj\Debug\net6.0\hwl1ex8.genruntimeconfig.cache
+C:\Users\d1sco\Desktop\GB\C#\hwl1ex8\obj\Debug\net6.0\ref\hwl1ex8.dll
