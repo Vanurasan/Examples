@@ -1,7 +1,9 @@
-﻿Console.Writeline("Введите переменную a");
+﻿Console.WriteLine("Введите переменную a");
 int a = Convert.ToInt32(Console.ReadLine());
-Console.Writeline("Введите переменную b");
+Console.WriteLine("Введите переменную b");
 int b = Convert.ToInt32(Console.ReadLine());
-if (a>b) {int max=a; int min = b;} else {int max = b; int min = a;};
- Console.Writeline("Максимальное:"+ max);
- Console.Writeline("Минимальное:"+ min);
+int max=0;
+int min=0;
+if (a>b) {max=a; min = b;} else {max = b; min = a;};
+ Console.WriteLine("Максимальное:"+ max);
+ Console.WriteLine("Минимальное:"+ min);
