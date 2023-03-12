@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hwl1ex4/1.0.0": {
+        "runtime": {
+          "hwl1ex4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hwl1ex4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
