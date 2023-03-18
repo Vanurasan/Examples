@@ -1,0 +1,15 @@
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\bin\Debug\net6.0\hwl2ex10.exe
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\bin\Debug\net6.0\hwl2ex10.deps.json
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\bin\Debug\net6.0\hwl2ex10.runtimeconfig.json
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\bin\Debug\net6.0\hwl2ex10.dll
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\bin\Debug\net6.0\hwl2ex10.pdb
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\obj\Debug\net6.0\hwl2ex10.csproj.AssemblyReference.cache
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\obj\Debug\net6.0\hwl2ex10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\obj\Debug\net6.0\hwl2ex10.AssemblyInfoInputs.cache
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\obj\Debug\net6.0\hwl2ex10.AssemblyInfo.cs
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\obj\Debug\net6.0\hwl2ex10.csproj.CoreCompileInputs.cache
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\obj\Debug\net6.0\hwl2ex10.dll
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\obj\Debug\net6.0\refint\hwl2ex10.dll
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\obj\Debug\net6.0\hwl2ex10.pdb
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\obj\Debug\net6.0\hwl2ex10.genruntimeconfig.cache
+C:\Users\d1sco\Desktop\GB\C#\hwl2ex10\obj\Debug\net6.0\ref\hwl2ex10.dll
