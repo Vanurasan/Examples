@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hwl2ex13/1.0.0": {
+        "runtime": {
+          "hwl2ex13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hwl2ex13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
